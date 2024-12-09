@@ -1,0 +1,11 @@
+bs4
+markdown
+google-api-python-client
+langchain
+langchain_core
+langchain-community
+langchain-google-community
+langchain-experimental
+langchain_openai
+langgraph
+tld
